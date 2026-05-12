@@ -47,6 +47,8 @@ Dependiendo del alcance del proyecto podrías extender esto con entidades como `
 
 
 ## Tablas
+<img width="1440" height="7422" alt="image" src="https://github.com/user-attachments/assets/787fc954-4cbe-401e-8d94-acf4cc779b41" />
+
 
 
 
